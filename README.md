@@ -1,2 +1,2 @@
-# chandrababu-demo-repositaory
+# chandrababu-demo-repo
 demo repository
